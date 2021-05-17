@@ -1,0 +1,81 @@
+{
+    "AV1": {
+        "href": "https://downloads.aomedia.org/specifications/av1-spec/",
+        "title": "AV1 Bitstream & Decoding Process Specification",
+        "authors": [
+            "Peter de Rivaz",
+            "Jack Haughton"
+        ],
+        "status": "Standard",
+        "publisher": "AOM",
+        "rawDate": "2019-01-08",
+        "repository": "https://github.com/aomediacodec/av1-spec"
+    },
+    "AV1-ISOBMFF": {
+        "href": "https://downloads.aomedia.org/specifications/av1-isobmff",
+        "title": "AV1 ISO Base Media File Format Binding Specification",
+        "authors": [
+            "Cyril Concolato",
+            "Tom Finegan"
+        ],
+        "status": "Standard",
+        "publisher": "AOM",
+        "rawDate": "2018-09-07",
+        "repository": "https://aomediacodec.github.io/av1-isobmff",
+        "versions" : {
+        	"1.1.0": {
+                "href": "https://downloads.aomedia.org/specifications/av1-isobmff/v1.1.0",
+                "rawDate": "2019-05-28"
+        	},
+        	"1.0.0": {
+                "href": "https://downloads.aomedia.org/specifications/av1-isobmff/v1.0.0",
+                "rawDate": "2018-09-07"
+        	}
+        }
+    },
+    "AVIF": {
+        "href": "https://downloads.aomedia.org/specifications/av1-avif",
+        "title": "AV1 Image Format Specification",
+        "authors": [
+            "Cyril Concolato",
+            "Anders Klemets"
+        ],
+        "status": "Standard",
+        "publisher": "AOM",
+        "rawDate": "2019-02-19",
+        "repository": "https://aomediacodec.github.io/av1-avif"
+    },
+    "ID3-EMSG": {
+        "href": "https://downloads.aomedia.org/specifications/id3-emsg",
+        "title": "Carriage of ID3 Timed Metadata in the Common Media Application Format",
+        "authors": [
+            "Krasimir Kolarov",
+            "John Simmons"
+        ],
+        "status": "Standard",
+        "publisher": "AOM",
+        "rawDate": "2020-04-06",
+        "repository": "https://aomediacodec.github.io/id3-emsg"
+    },
+    "AV1-RTP": {
+        "href": "https://aomediacodec.github.io/av1-rtp-spec/",
+        "title": "RTP Payload Format For AV1",
+        "status": "WGD",
+        "publisher": "AOM",
+        "repository": "https://aomediacodec.github.io/av1-rtp-spec"
+    },
+    "AV1-MPEG2-TS": {
+        "href": "https://aomediacodec.github.io/av1-mpeg2-ts/",
+        "title": "AV1 specification for carriage inside MPEG-2 TS",
+        "status": "WGD",
+        "publisher": "AOM",
+        "repository": "https://aomediacodec.github.io/av1-mpeg2-ts"
+    },
+    "AV1-HDR10+": {
+        "href": "https://aomediacodec.github.io/av1-hdr10plus/",
+        "title": "RTP Payload Format For AV1",
+        "status": "WGD",
+        "publisher": "AOM",
+        "repository": "https://aomediacodec.github.io/av1-hdr10plus"
+    }
+}

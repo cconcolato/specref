@@ -155,18 +155,6 @@
         "href": "http://www.atsc.org/cms/standards/a72/A72-Part-1-2014.pdf",
         "date": "18 February 2014"
     },
-    "AV1": {
-        "href": "https://aomediacodec.github.io/av1-spec/av1-spec.pdf",
-        "title": "AV1 Bitstream & Decoding Process Specification",
-        "authors": [
-            "Peter de Rivaz",
-            "Jack Haughton"
-        ],
-        "status": "Standard",
-        "publisher": "AOM",
-        "rawDate": "2019-01-08",
-        "repository": "https://github.com/aomediacodec/av1-spec"
-    },
     "AXAPI": {
         "aliasOf": "NSAccessibility"
     },
